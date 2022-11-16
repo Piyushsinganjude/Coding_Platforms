@@ -7,10 +7,7 @@ Example 2:
 
 Input: num1 = "456", num2 = "77"
 Output: "533"
-Example 3:
 
-Input: num1 = "0", num2 = "0"
-Output: "0"
 ## Example 
 
 ```cpp
