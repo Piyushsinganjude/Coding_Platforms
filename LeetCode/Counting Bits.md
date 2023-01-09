@@ -10,7 +10,7 @@ Explanation:
 0 --> 0
 1 --> 1
 2 --> 10
-Example 2:
+## Example 2:
 
 Input: n = 5
 Output: [0,1,1,2,1,2]
