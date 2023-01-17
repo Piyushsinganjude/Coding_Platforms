@@ -1,3 +1,4 @@
+cpp solution:-
 map<int,int> mp;
         for(auto x : nums){
             mp[x]++;
