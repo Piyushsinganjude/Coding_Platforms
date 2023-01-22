@@ -11,4 +11,4 @@ public:
         return ans;
     }
 };
-Link - (https://leetcode.com/problems/array-partition/description/)
+Link - https://leetcode.com/problems/array-partition/description/
