@@ -8,7 +8,7 @@ Example 1:
 Input: S = "zvvo"
 Output: "zvo"
 Explanation: Only keep the first
-occurrence
+occurrence.
 Example 2:
 
 Input: S = "gfg"
