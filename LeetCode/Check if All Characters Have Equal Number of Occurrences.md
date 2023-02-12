@@ -9,7 +9,7 @@ Example 1:
 
 Input: s = "abacbc"
 Output: true
-Explanation: The characters that appear in s are 'a', 'b', and 'c'. All characters occur 2 times in s.
+Explanation: The characters that appear in s are 'a', 'b', and 'c'. All characters occur 2 times in s..
 Example 2:
 
 Input: s = "aaabb"
